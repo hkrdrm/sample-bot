@@ -4,5 +4,11 @@
   "description": "My own Discord bot",
   "main": "bot.js",
   "author": "Matt Spiers",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "woor/discord.io#gateway_v6",
+    "lodash": "^4.17.4",
+    "winston": "^2.4.0"
+  }
 }
